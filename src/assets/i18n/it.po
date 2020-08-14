@@ -29,7 +29,7 @@ msgid " KiB."
 msgstr ""
 
 msgid " Plugin"
-msgstr ""
+msgstr " Plugin"
 
 msgid " Service"
 msgstr "Servizio"
@@ -81,7 +81,7 @@ msgid " is "
 msgstr "è"
 
 msgid " is a required field."
-msgstr ""
+msgstr " è un campo richiesto."
 
 msgid " is required."
 msgstr "è richiesto."
@@ -100,28 +100,28 @@ msgstr ""
 "può ridurre le prestazioni di sistema."
 
 msgid " official plugins"
-msgstr ""
+msgstr " plugin ufficiali"
 
 msgid " seconds"
-msgstr ""
+msgstr " secondi"
 
 msgid " seconds."
-msgstr ""
+msgstr " secondi."
 
 msgid " service has been enabled."
 msgstr "il servizio è stato abilitato."
 
 msgid " should be at least "
-msgstr ""
+msgstr " deve essere almeno"
 
 msgid " should be no more than "
-msgstr ""
+msgstr " deve essere non più di"
 
 msgid " successfully saved."
-msgstr ""
+msgstr " salvato con successo."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " sbloccato con successo"
 
 msgid " system is powered on and connected to the network."
 msgstr "il sistema è acceso e connesso alla rete. "
@@ -136,7 +136,7 @@ msgid " updated."
 msgstr "aggiornato."
 
 msgid "% of all cores"
-msgstr ""
+msgstr " % di tutti i processori"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -153,22 +153,22 @@ msgid "'. All data on that pool was destroyed."
 msgstr "'. Tutti i dati sul pool sono stati distrutti."
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr " (24 ore)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr " (Esempi: 500 KB, 500M, 2 TB)"
 
 msgid "(Legacy Encryption)"
-msgstr ""
+msgstr " (Crittografia precedente)"
 
 msgid "(No description)"
 msgstr "(Nessuna descrizione)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr " (Rimuovi pool dal database)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr " (alto a destra), poi"
 
 msgid ", new Metadata vdev is a "
 msgstr ""
@@ -186,13 +186,13 @@ msgid "... Make sure the "
 msgstr "... Sei sicuro che"
 
 msgid "0=Disabled, blank=inherit"
-msgstr ""
+msgstr "0=Disabilitato, vuoto=ereditato"
 
 msgid "20 characters is the maximum length."
 msgstr "20 caratteri è la lunghezza massima."
 
 msgid "2FA"
-msgstr ""
+msgstr "2FA"
 
 msgid ": Automatic update check failed. Please check system network settings."
 msgstr ""
@@ -200,7 +200,7 @@ msgstr ""
 "rete del sistema."
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
-msgstr ""
+msgstr "</b> plugin cancella tutti i dati e copie salvati con esso."
 
 msgid "</b> with the keypair"
 msgstr ""
@@ -6238,16 +6238,16 @@ msgid ""
 msgstr ""
 
 msgid "Hide"
-msgstr ""
+msgstr "Nascondi"
 
 msgid "Hide Extra Columns"
-msgstr ""
+msgstr "Nascondi colonne extra"
 
 msgid "Hide Standard Error"
-msgstr ""
+msgstr "Nascondi errore standard"
 
 msgid "Hide Standard Output"
-msgstr ""
+msgstr "Nascondi Output standard"
 
 msgid "Hide Stderr"
 msgstr ""
@@ -6319,16 +6319,16 @@ msgid "Host name or IP address of the central key server."
 msgstr ""
 
 msgid "HostName"
-msgstr ""
+msgstr "NomeHost"
 
 msgid "Hostname"
-msgstr ""
+msgstr "Nomehost"
 
 msgid "Hostname (Virtual)"
-msgstr ""
+msgstr "Nomehost (Virtuale)"
 
 msgid "Hostname and Domain"
-msgstr ""
+msgstr "Nomehost e Dominio"
 
 msgid ""
 "Hostname or IP  address used to connect to the active side system. When the "
